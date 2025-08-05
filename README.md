@@ -4,9 +4,9 @@
 I'm currently learning C# with the end goals of building apps i can use and create arcade-style SNES like game with Monogame.</br>
 My hobbies are Music, Watching EVO and GDQ, Gaming
 
----
 
-**What I'm using:**  
+
+## **What I'm using:**  
 ![C#](https://img.shields.io/badge/C%23-blue?logo=csharp)
 ![.NET](https://img.shields.io/badge/.NET-purple?logo=.net)
 ![WPF](https://img.shields.io/badge/WPF-blue?logo=windows)
@@ -14,8 +14,7 @@ My hobbies are Music, Watching EVO and GDQ, Gaming
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?logo=visualstudio)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
----
-
+![Kbessingu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&show_icons=true&theme=dark)
 ## Future Plans
 Explore other game frameworks like Pygame-ce, Love2D, and Raylib.
 
