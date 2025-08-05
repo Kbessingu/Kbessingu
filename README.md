@@ -1,26 +1,23 @@
-##  **About Me and My Hobbies:**
+# Hi, I'm Kbessingu 👋
 
-```yaml
-name: Kbessingu
-current_focus: "C# Fundamentals"
-learning_goal: 
-  [
-    "Desktop apps I can actually use",  
-    "Arcade-style SNES games with MonoGame"
-  ]
+## About Me and My Hobbies
+I'm currently learning C# with the end goals of building apps i can use and create arcade-style SNES like game with Monogame.
+My hobbies are Music, Watching EVO and GDQ, Gaming
 
-current_stack:
-  [
-    "C#",
-    ".NET", 
-    "WPF",
-    "MonoGame",
-    "Visual Studio 2022"
-  ]
+---
 
-future_frameworks: ["Pygame-ce", "Love2D", "Raylib"]
-hobbeis: ["Music", "Learning", "Gaming", "Evo and GDQ", 
-```
+**What I'm using:**  
+![C#](https://img.shields.io/badge/C%23-blue?logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-purple?logo=.net)
+![WPF](https://img.shields.io/badge/WPF-blue?logo=windows)
+![MonoGame](https://img.shields.io/badge/MonoGame-black?logo=monogame)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?logo=visualstudio)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+
+---
+
+## Future Plans
+Explore other game frameworks like Pygame-ce, Love2D, and Raylib.
 
 <!--
 ---
