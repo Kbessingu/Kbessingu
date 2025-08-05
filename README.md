@@ -1,7 +1,7 @@
 # Hi, I'm Kbessingu 👋
 
 ## About Me and My Hobbies
-I'm currently learning C# with the end goals of building apps i can use and create arcade-style SNES like game with Monogame.
+I'm currently learning C# with the end goals of building apps i can use and create arcade-style SNES like game with Monogame.</br>
 My hobbies are Music, Watching EVO and GDQ, Gaming
 
 ---
