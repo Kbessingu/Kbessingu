@@ -1,5 +1,28 @@
-## **About Me:**
-Learning C# with end goals: build desktop apps i can use and create arcade-style SNES like game with Monogame.
+##  **About Me and My Hobbies:**
+
+```yaml
+name: Kbessingu
+current_focus: "C# Fundamentals"
+learning_goal: 
+  [
+    "Desktop apps I can actually use",  
+    "Arcade-style SNES games with MonoGame"
+  ]
+
+current_stack:
+  [
+    "C#",
+    ".NET", 
+    "WPF",
+    "MonoGame",
+    "Visual Studio 2022"
+  ]
+
+future_frameworks: ["Pygame-ce", "Love2D", "Raylib"]
+hobbeis: ["Music", "Learning", "Gaming", "Evo and GDQ", 
+```
+
+<!--
 ---
 **What I'm using:**</br>
 ![C#](https://img.shields.io/badge/C%23-blue?logo=csharp)
@@ -12,10 +35,10 @@ Learning C# with end goals: build desktop apps i can use and create arcade-style
 ## Future Plans
 Explore other game frameworks like Pygame-ce, Love2D, and Raylib.
 
-<!--
+
 **Kbessingu/Kbessingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+Learning C# with end goals: build desktop apps i can use and create arcade-style SNES like game with Monogame.
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame--CE-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
