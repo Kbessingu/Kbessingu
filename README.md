@@ -15,7 +15,6 @@ My hobbies are Music, Watching EVO and GDQ, Gaming.
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?logo=visualstudio)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
-
 ![Kbessingu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&show_icons=true&theme=dark)</br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbessingu&layout=compact&theme=dark)
 ## Future Plans
