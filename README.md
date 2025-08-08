@@ -18,7 +18,10 @@ My hobbies are Music, Watching EVO and GDQ, Gaming.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&count_private=true)</br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&layout=compact)
 ## Future Plans
-Explore other game frameworks like Python::Pygame-ce, Lua::Love2D, C/C++::Raylib, maybe even Go.
+![Static Badge](https://img.shields.io/badge/Python-Pygame-blue?logo=Python) 
+![Lua](https://img.shields.io/badge/Lua-Love2D-%232C2D72.svg?logo=lua&logoColor=white) 
+![C/C++](https://img.shields.io/badge/C++-Raylib-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 
 <!--
 ---
@@ -42,7 +45,6 @@ Learning C# with end goals: build desktop apps i can use and create arcade-style
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![s](https://github-readme-stats.vercel.app/api?username=Kbessingu&show_icons=true&theme=dark)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
