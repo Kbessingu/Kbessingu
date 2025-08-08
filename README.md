@@ -18,7 +18,7 @@ My hobbies are Music, Watching EVO and GDQ, Gaming.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&count_private=true)</br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&layout=compact)
 ## Future Plans
-Explore other game frameworks like Pygame-ce, Love2D, and Raylib, maybe even Go.
+Explore other game frameworks like Python::Pygame-ce, Lua::Love2D, C/C++::Raylib, maybe even Go.
 
 <!--
 ---
