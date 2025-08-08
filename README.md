@@ -2,7 +2,7 @@
 
 ## About Me and My Hobbies
 I'm currently learning C# with the end goals of building apps I can use and
-arcade-style SNES like game with Monogame.</br>
+arcade-style SNES like games with Monogame.</br>
 My hobbies are Playing Bass Guitar, Music, Watching EVO and GDQ, Gaming, Reading.
 
 
