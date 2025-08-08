@@ -7,7 +7,7 @@ My hobbies are Playing Bass Guitar, Music, Watching EVO and GDQ, Gaming, Reading
 
 
 
-## **What I'm using:**  
+## **Currently Learning:**  
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2300599C.svg?logo=cshrp&logoColor=purple)
 ![.NET](https://img.shields.io/badge/.NET-purple?logo=.net)
 ![WPF](https://img.shields.io/badge/WPF-purple?logo=.net)
