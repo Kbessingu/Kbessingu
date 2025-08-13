@@ -17,7 +17,7 @@ My hobbies are Playing Bass Guitar, Music, Watching EVO and GDQ, Gaming, Reading
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&count_private=true)</br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&layout=compact)
-# Future Plans
+## Future Interests
 ![Static Badge](https://img.shields.io/badge/Python-Pygame-blue?logo=Python) 
 ![Lua](https://img.shields.io/badge/Lua-Love2D-%232C2D72.svg?logo=lua&logoColor=white) 
 ![C/C++](https://img.shields.io/badge/C++-Raylib-%2300599C.svg?logo=c%2B%2B&logoColor=white)
