@@ -8,7 +8,7 @@ My hobbies are Playing Bass Guitar, Music, Watching EVO and GDQ, Gaming, Reading
 
 
 ## **Currently Learning Goals:**  
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)|
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&count_private=true)</br>
