@@ -8,11 +8,7 @@ My hobbies are Playing Bass Guitar, Music, Watching EVO and GDQ, Gaming, Reading
 
 
 ## **Currently Learning Goals:**  
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%2300599C.svg?logo=cshrp&logoColor=purple)
-![.NET](https://img.shields.io/badge/.NET-purple?logo=.net)
-![WPF](https://img.shields.io/badge/WPF-purple?logo=.net)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)
-![MonoGame](https://img.shields.io/badge/MonoGame-black?logo=monogame)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&count_private=true)</br>
@@ -21,7 +17,7 @@ My hobbies are Playing Bass Guitar, Music, Watching EVO and GDQ, Gaming, Reading
 ![Static Badge](https://img.shields.io/badge/Python-Pygame-blue?logo=Python) 
 ![Lua](https://img.shields.io/badge/Lua-Love2D-%232C2D72.svg?logo=lua&logoColor=white) 
 ![C/C++](https://img.shields.io/badge/C++-Raylib-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
+
 
 <!--
 ---
