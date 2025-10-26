@@ -1,22 +1,21 @@
 # Hi, I'm Kbessingu 👋
 
 ## About Me and My Hobbies
-I'm currently learning C# with the end goals of building apps I can use and
-arcade-style SNES like games with Monogame.</br>
-My hobbies are Playing Bass Guitar, Music, Watching EVO and GDQ, Gaming, Reading.
+I'm currently learning Go with the end goals of building apps I can use and
+tiny arcade-style SNES like games.</br>
+My hobbies are playing Bass Guitar, Music, Watching EVO and GDQ, Gaming, Reading.
 
 
 
 ## **Currently Learning Goals:**  
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)|
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+## Future Interests:
+![Static Badge](https://img.shields.io/badge/Python-Pygame-blue?logo=Python) 
+![C/C++](https://img.shields.io/badge/C++-Raylib-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&count_private=true)</br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&layout=compact)
-## Future Interests:
-![Static Badge](https://img.shields.io/badge/Python-Pygame-blue?logo=Python) 
-![Lua](https://img.shields.io/badge/Lua-Love2D-%232C2D72.svg?logo=lua&logoColor=white) 
-![C/C++](https://img.shields.io/badge/C++-Raylib-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 
 <!--
