@@ -5,14 +5,14 @@ I'm currently learning Go with the end goals of building apps I can use and
 tiny arcade-style SNES like games.</br>
 My hobbies are playing Bass Guitar, Music, Watching EVO and GDQ, Gaming, Reading.
 
-
-
 ## **Currently Learning Goals:**  
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
+![Go](https://img.shields.io/badge/Go-%2300599C.svg?&logo=go&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?&logo=github)
 ## Future Interests:
-![Static Badge](https://img.shields.io/badge/Python-Pygame-blue?logo=Python) 
-![C/C++](https://img.shields.io/badge/C++-Raylib-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![BobbleTea](https://img.shields.io/badge/Go-BubbleTea-%2300599C.svg?&logo=go&logoColor=white)
+![Fyne](https://img.shields.io/badge/Go-Fyne-%2300599C.svg?&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C++-Raylib-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&count_private=true)</br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&layout=compact)
