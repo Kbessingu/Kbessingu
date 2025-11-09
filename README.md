@@ -1,10 +1,5 @@
 # Hi, I'm Kbessingu 👋
 
-## About Me and My Hobbies
-I'm currently learning Go with the end goals of building apps I can use and
-tiny arcade-style SNES like games.</br>
-My hobbies are playing Bass Guitar, Music, Watching EVO and GDQ, Gaming, Reading.
-
 ## **Currently Learning Goals:**  
 ![Go](https://img.shields.io/badge/Go-%2300599C.svg?&logo=go&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?&logo=github)
