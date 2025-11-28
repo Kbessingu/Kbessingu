@@ -6,8 +6,9 @@
 ## Future Interests:
 ![BobbleTea](https://img.shields.io/badge/Go-BubbleTea-%2300599C.svg?&logo=go&logoColor=white)
 ![Fyne](https://img.shields.io/badge/Go-Fyne-%2300599C.svg?&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C++-Raylib-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-Raylib-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&count_private=true)</br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&layout=compact)
