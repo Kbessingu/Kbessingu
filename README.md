@@ -1,4 +1,4 @@
-# Hi, I'm Kbessingu 👋
+# Hi, I'm Taake 👋
 
 ## **Currently Learning Goals:**  
 ![Go](https://img.shields.io/badge/Go-%2300599C.svg?&logo=go&logoColor=white)
