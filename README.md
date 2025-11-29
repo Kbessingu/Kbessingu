@@ -1,19 +1,27 @@
-# Hi, I'm Taake 👋
+<div align="center">
 
-## **Currently Learning Goals:**  
-![Go](https://img.shields.io/badge/Go-%2300599C.svg?&logo=go&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black?&logo=github)
-## Future Interests:
-![BobbleTea](https://img.shields.io/badge/Go-BubbleTea-%2300599C.svg?&logo=go&logoColor=white)
-![Fyne](https://img.shields.io/badge/Go-Fyne-%2300599C.svg?&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C-Raylib-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?&logo=c%2B%2B&logoColor=white)
+## Learning Path:
+***Learning:*** <br>
+[![Go](https://img.shields.io/badge/Go-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://go.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
+
+***want to learn:*** <br>
+[![BubbleTea](https://img.shields.io/badge/-BubbleTea-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://github.com/charmbracelet/bubbletea)
+[![Fyne](https://img.shields.io/badge/-Fyne-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://fyne.io)
+[![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
+[![C](https://custom-icon-badges.demolab.com/badge/c-%23282828.svg?&logo=c&logoColor=%23d5c4a1)](https://www.c-language.org)
+[![C++](https://img.shields.io/badge/c++-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
+
+## My toolbox
+[![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://code.visualstudio.com)
+[![Alacritty](https://img.shields.io/badge/Alacritty-%23282828.svg?&logo=alacritty&logoColor=%23d5c4a1)](https://www.alacritty.org)
+[![Git](https://img.shields.io/badge/Git-%23282828.svg?&logo=git&logoColor=%23d5c4a1)](https://git-scm.com)
+
+## About Me:
+I am a hobby software developer learning to<br>create cool SNES-inspired arcade games, tools and applications<br>I can use.<br><br>I enjoy SNES RPGs, point and click adventure games.<br>Playing bass guitar.<br>Lisening to Norwagian black metal.<br><br>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&count_private=true)</br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbessingu&theme=nord&show_icons=true&hide_border=true&layout=compact)
-
-
+</div>
 <!--
 ---
 **What I'm using:**</br>
@@ -24,10 +32,17 @@
 ![Monogame](https://img.shields.io/badge/MonoGame-black?logo=monogame)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?logo=visualstudio)
 ![Git](https://img.shields.io/badge/GitHub-black?logo=github)
+
+<img src="https://cdn.simpleicons.org/go" alt="Go" width="35" height="35"/>
+<img src="https://cdn.simpleicons.org/raylib/white" alt="Raylib" width="35" height="35"/>
+<img src="https://cdn.simpleicons.org/c" alt="C" width="35" height="35"/>
+<img src="https://cdn.simpleicons.org/c++" alt="C++" width="35" height="35"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kbessingu&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)</br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kbessingu&theme=gruvbox&show_icons=true&hide_border=true&layout=compact)
 ---
 ## Future Plans
 Explore other game frameworks like Pygame-ce, Love2D, and Raylib.
-
 
 **Kbessingu/Kbessingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,7 +60,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 -->
