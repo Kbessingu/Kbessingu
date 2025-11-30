@@ -2,15 +2,16 @@
 
 ## Learning Path:
 ***Learning:*** <br>
-[![Go](https://img.shields.io/badge/Go-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://go.dev)
+[![C](https://custom-icon-badges.demolab.com/badge/c-%23282828.svg?&logo=c&logoColor=%23d5c4a1)](https://www.c-language.org)
+[![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
 
 ***want to learn:*** <br>
+[![Go](https://img.shields.io/badge/Go-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://go.dev)
 [![BubbleTea](https://img.shields.io/badge/-BubbleTea-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://github.com/charmbracelet/bubbletea)
 [![Fyne](https://img.shields.io/badge/-Fyne-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://fyne.io)
-[![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
-[![C](https://custom-icon-badges.demolab.com/badge/c-%23282828.svg?&logo=c&logoColor=%23d5c4a1)](https://www.c-language.org)
-[![C++](https://img.shields.io/badge/c++-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
+
+
 
 ## My toolbox
 [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://code.visualstudio.com)
@@ -22,11 +23,14 @@ I am a hobby software developer learning to<br>create cool SNES-inspired arcade 
 
 
 </div>
+
+
 <!--
 ---
 **What I'm using:**</br>
+[![C++](https://img.shields.io/badge/c++-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-blue?logo=csharp)
+![C#](https://img.shields.io/badge/C%23-%23282828.svg?logo=csharp%2B%2B&logoColor=%23d5c4a1)
 ![.NET](https://img.shields.io/badge/.NET-purple?logo=.net)
 ![WPF](https://img.shields.io/badge/WPF-blue?logo=windows)
 ![Monogame](https://img.shields.io/badge/MonoGame-black?logo=monogame)
