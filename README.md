@@ -10,14 +10,14 @@
 [![Go](https://img.shields.io/badge/Go-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://go.dev)
 [![BubbleTea](https://img.shields.io/badge/-BubbleTea-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://github.com/charmbracelet/bubbletea)
 [![Fyne](https://img.shields.io/badge/-Fyne-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://fyne.io)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23282828.svg?logo=https://raw.github.com/HrafnSognir/HrafnSognir/blob/main/assests/csharp.svg&logoColor=%23d5c4a1)]()
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-282828.svg?logo=https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/assets/csharp.svg&logoColor=%23d5c4a1)]()
 [![MonoGame](https://img.shields.io/badge/MonoGame-%23282828.svg?logo=monogame&logoColor=%23d5c4a1)](https://www.monogame.net)
-
 
 
 ## My toolbox
 [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://code.visualstudio.com)
 [![Alacritty](https://img.shields.io/badge/Alacritty-%23282828.svg?&logo=alacritty&logoColor=%23d5c4a1)](https://www.alacritty.org)
+[![Krita](https://img.shields.io/badge/Krita-%23282828.svg?&logo=krita&logoColor=%23d5c4a1)](https://krita.org/en/)
 [![Git](https://img.shields.io/badge/Git-%23282828.svg?&logo=git&logoColor=%23d5c4a1)](https://git-scm.com)
 
 ## About Me:
