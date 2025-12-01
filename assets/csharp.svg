@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <g fill="currentColor">
+    <path d="M64 8l55.4 32v48L64 120 8.6 88V40L64 8z"/>
+    <text x="50%" y="60%" font-size="56" text-anchor="middle" fill="currentColor" font-family="Verdana, sans-serif" dy=".35em">C#</text>
+  </g>
+</svg>
