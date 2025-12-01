@@ -10,7 +10,7 @@
 [![Go](https://img.shields.io/badge/Go-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://go.dev)
 [![BubbleTea](https://img.shields.io/badge/-BubbleTea-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://github.com/charmbracelet/bubbletea)
 [![Fyne](https://img.shields.io/badge/-Fyne-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://fyne.io)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-282828.svg?logo=https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/assets/csharp.svg&logoColor=%23d5c4a1)]()
+[![C# Godot](https://img.shields.io/badge/C%23%20Godot-282828.svg?logo=godotengine&logoColor=d5c4a1)](https://godotengine.org)
 [![MonoGame](https://img.shields.io/badge/MonoGame-%23282828.svg?logo=monogame&logoColor=%23d5c4a1)](https://www.monogame.net)
 
 
