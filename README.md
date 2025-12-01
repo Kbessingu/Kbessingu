@@ -7,12 +7,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
 
 ***want to learn:*** <br>
-[![Go](https://img.shields.io/badge/Go-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://go.dev)
-[![BubbleTea](https://img.shields.io/badge/-BubbleTea-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://github.com/charmbracelet/bubbletea)
-[![Fyne](https://img.shields.io/badge/-Fyne-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://fyne.io)
 [![C# Godot](https://img.shields.io/badge/C%23%20Godot-282828.svg?logo=godotengine&logoColor=d5c4a1)](https://godotengine.org)
 [![MonoGame](https://img.shields.io/badge/MonoGame-%23282828.svg?logo=monogame&logoColor=%23d5c4a1)](https://www.monogame.net)
-
+[![Neovim](https://img.shields.io/badge/Neovim-282828.svg?logo=neovim&logoColor=d5c4a1)](https://neovim.io)
 
 ## My toolbox
 [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://code.visualstudio.com)
@@ -30,6 +27,10 @@ I am a hobby software developer learning to<br>create cool SNES-inspired arcade 
 <!--
 ---
 **What I'm using:**</br>
+[![Go](https://img.shields.io/badge/Go-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://go.dev)
+[![BubbleTea](https://img.shields.io/badge/-BubbleTea-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://github.com/charmbracelet/bubbletea)
+[![Fyne](https://img.shields.io/badge/-Fyne-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://fyne.io)
+
 [![C++](https://img.shields.io/badge/c++-%23282828.svg?&logo=c%2B%2B&logoColor=%23d5c4a1)](https://isocpp.org)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23282828.svg?logo=csharp%2B%2B&logoColor=%23d5c4a1)
