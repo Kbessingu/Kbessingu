@@ -18,7 +18,7 @@
 [![Git](https://img.shields.io/badge/Git-%23282828.svg?&logo=git&logoColor=%23d5c4a1)](https://git-scm.com)
 
 ## About Me:
-I am a hobby software developer learning to<br>create cool SNES-inspired arcade games, tools and applications<br>I can use.<br><br>I enjoy JRPGs, point and click adventure games.<br>Playing bass guitar.<br>Lisening to Norwagian black metal.<br><br>
+I am a hobby software developer learning to<br>create cool SNES-inspired arcade games, tools and applications<br>
 
 
 </div>
