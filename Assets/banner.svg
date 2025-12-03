@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="1.1" width="210mm" height="297mm" viewBox="0 0 21000 29700" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-        <clipPath id="myClipPath">
-            <rect x="0" y="0" width="21000" height="29700"/>
-        </clipPath>
-    </defs>
-    
-    <g clip-path="url(#myClipPath)">
-        <text x="100" y="100" font-size="500" fill="black">HRAFNSOGNIR</text>
-        <!-- Ensure other elements fit in this viewBox -->
+<svg version="1.1" width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <text x="50" y="200" font-size="50" fill="black">HRAFNSOGNIR</text>
     </g>
 </svg>
