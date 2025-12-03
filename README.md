@@ -1,7 +1,6 @@
-<div align="center">
+<p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/banner.svg" alt="logo" width="65%">
+<div align="center"><br>
 
-## Learning Path:
-***Learning:*** <br>
 [![C](https://custom-icon-badges.demolab.com/badge/--%23282828.svg?logo=c&logoColor=%23d5c4a1)](https://www.c-language.org)
 [![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
