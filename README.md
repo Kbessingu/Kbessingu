@@ -1,20 +1,18 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/banner.svg" alt="logo" width="65%">
 <div align="center">
 
-[![C](https://custom-icon-badges.demolab.com/badge/--%23282828.svg?logo=c&logoColor=%23d5c4a1)](https://www.c-language.org)
-[![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
+[![C# Godot](https://img.shields.io/badge/C%23%20Godot-282828.svg?logo=godotengine&logoColor=d5c4a1)](https://godotengine.org)
+[![MonoGame](https://img.shields.io/badge/MonoGame-%23282828.svg?logo=monogame&logoColor=%23d5c4a1)](https://www.monogame.net)
 [![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
 
 ***want to learn:*** <br>
-[![C# Godot](https://img.shields.io/badge/C%23%20Godot-282828.svg?logo=godotengine&logoColor=d5c4a1)](https://godotengine.org)
-[![MonoGame](https://img.shields.io/badge/MonoGame-%23282828.svg?logo=monogame&logoColor=%23d5c4a1)](https://www.monogame.net)
 [![Neovim](https://img.shields.io/badge/Neovim-282828.svg?logo=neovim&logoColor=d5c4a1)](https://neovim.io)
 
 ## My toolbox
 [![VSCode](https://custom-icon-badges.demolab.com/badge/VSCode-%23282828.svg?logo=visualstudio&logoColor=%23d5c4a1)](https://code.visualstudio.com)
 [![Alacritty](https://img.shields.io/badge/Alacritty-%23282828.svg?&logo=alacritty&logoColor=%23d5c4a1)](https://www.alacritty.org)
 [![Krita](https://img.shields.io/badge/Krita-%23282828.svg?&logo=krita&logoColor=%23d5c4a1)](https://krita.org/en/)
-[![Git](https://img.shields.io/badge/Git-%23282828.svg?&logo=git&logoColor=%23d5c4a1)](https://git-scm.com)
+
 
 ## About Me:
 I am a hobby software developer learning to<br>create tiny SNES-inspired arcade games, tools and applications<br>
@@ -25,6 +23,9 @@ I am a hobby software developer learning to<br>create tiny SNES-inspired arcade 
 
 <!--
 ---
+[![C](https://custom-icon-badges.demolab.com/badge/--%23282828.svg?logo=c&logoColor=%23d5c4a1)](https://www.c-language.org)
+[![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
+[![Git](https://img.shields.io/badge/Git-%23282828.svg?&logo=git&logoColor=%23d5c4a1)](https://git-scm.com)
 **What I'm using:**</br>
 [![Go](https://img.shields.io/badge/Go-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://go.dev)
 [![BubbleTea](https://img.shields.io/badge/-BubbleTea-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://github.com/charmbracelet/bubbletea)
