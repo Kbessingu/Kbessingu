@@ -1,7 +1,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/HrafnSognir/HrafnSognir/main/Assests/banner.svg" alt="logo" width="65%">
 <div align="center">
 
-[![C# Godot](https://img.shields.io/badge/C%23%20Godot-282828.svg?logo=godotengine&logoColor=d5c4a1)](https://godotengine.org)
 [![MonoGame](https://img.shields.io/badge/MonoGame-%23282828.svg?logo=monogame&logoColor=%23d5c4a1)](https://www.monogame.net)
 [![GitHub](https://img.shields.io/badge/GitHub-%23282828.svg?&logo=github&logoColor=%23d5c4a1)](https://github.com)
 
@@ -26,6 +25,7 @@ I am a hobby software developer learning to<br>create tiny SNES-inspired arcade 
 [![C](https://custom-icon-badges.demolab.com/badge/--%23282828.svg?logo=c&logoColor=%23d5c4a1)](https://www.c-language.org)
 [![Raylib](https://img.shields.io/badge/Raylib-%23282828.svg?&logo=raylib&logoColor=%23d5c4a1)](https://www.raylib.com)
 [![Git](https://img.shields.io/badge/Git-%23282828.svg?&logo=git&logoColor=%23d5c4a1)](https://git-scm.com)
+[![C# Godot](https://img.shields.io/badge/C%23%20Godot-282828.svg?logo=godotengine&logoColor=d5c4a1)](https://godotengine.org)
 **What I'm using:**</br>
 [![Go](https://img.shields.io/badge/Go-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://go.dev)
 [![BubbleTea](https://img.shields.io/badge/-BubbleTea-%23282828.svg?&logo=go&logoColor=%23d5c4a1)](https://github.com/charmbracelet/bubbletea)
